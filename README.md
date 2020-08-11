@@ -1,18 +1,18 @@
 "# Mobile-Web-Development-CEN1400" <br>
 
-See Deployed site here -> https://shepherd869.github.io/CEN1400/ <br>
+<b>See Deployed site here -> </b>https://shepherd869.github.io/CEN1400/ <br>
 
 This site was created to enhance mobile development skills. It makes use of jQuery Mobile / CSS / HTML / ThemeRoller <br>
 
 This website is a Single Page Application (SPA)<br><br>
 Within it there is: <br><br>
 
-*Header with:<br>
+<b>*Header with:<br></b>
   Logo Image<br>
   Navigation Panel used to purchase reviewed products. Clicking Links will redirect user to appropriate online stores.<br>
   Website Name<br>
   
-*Body with: <br>
+<b>*Body with: <br></b>
   JS expandable sections covering:<br>
     Mission Statement<br>
     Test Method<br>
@@ -26,7 +26,7 @@ Within it there is: <br><br>
      Review<br>
      Back Navigation Buttons<br>
      <br>
-*Footer with:<br>
+<b>*Footer with:<br></b>
   Name<br>
   Copyright<br>
   Course Number<br>
