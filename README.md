@@ -31,6 +31,6 @@ Within it there is:
   Copyright
   Course Number
   
-GitHub Pages Deployed URL - https://shepherd869.github.io/CEN1400/
-SOTD Deployed URL - http://sotd.us/gregoryshepherd/SD140-MobileApp/M5/Activity/main.html
+GitHub Pages Deployed URL - https://shepherd869.github.io/CEN1400/ <br>
+SOTD Deployed URL - http://sotd.us/gregoryshepherd/SD140-MobileApp/M5/Activity/main.html <br>
 SOTD Zip File - http://sotd.us/gregoryshepherd/SD140-MobileApp/M6/Gshepherd_M6_Project_08112020.zip
