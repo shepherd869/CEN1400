@@ -20,7 +20,7 @@ Within it there is: <br><br>
     Submittal form, displaying JSON Snippet of user data entry<br>
     Contact form, displaying JSON Snippet of user data entry<br>
     <br>
-   Section Links in ranked (ordered) list with a filter search for individual reviews which include:<br>
+   <b>Section Links in ranked (ordered) list with a filter search for individual reviews which include:<br></b>
      Image of reviewed coffee<br>
      Link to purchase reviewed coffee by clicking that image, will redirect user to appropriate item purchase URL<br>
      Review<br>
