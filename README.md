@@ -2,7 +2,7 @@
 
 <b>See Deployed site here -> </b>https://shepherd869.github.io/CEN1400/ <br>
 
-This site was created to enhance mobile development skills. It makes use of jQuery Mobile / CSS / HTML / ThemeRoller <br>
+This site was created to enhance mobile development skills. It makes use of jQuery Mobile / Javascript / CSS / HTML / ThemeRoller <br>
 
 This website is a Single Page Application (SPA)<br><br>
 Within it there is: <br><br>
