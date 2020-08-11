@@ -5,7 +5,7 @@
 This site was created to enhance mobile development skills. It makes use of jQuery Mobile / Javascript / CSS / HTML / ThemeRoller <br>
 
 This website is a Single Page Application (SPA)<br><br>
-Within it there is: <br><br>
+Within it there is: <br>
 
 <b>*Header with:<br></b>
   Logo Image<br>
