@@ -1,0 +1,37 @@
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: inherit;
+}
+
+.ui-footer .ui-title {
+	font-size: 0.8em;
+	font-weight: normal;
+}
+h3, h4 {
+	margin-bottom: 0;
+}
+h3 + p, h4 + p {
+	margin-top: 0;
+}
+
+.favLabel {
+  padding-top: 10px;
+}
