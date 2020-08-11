@@ -1,36 +1,36 @@
-"# Mobile-Web-Development-CEN1400" 
+"# Mobile-Web-Development-CEN1400" <br>
 
-See Deployed site here -> https://shepherd869.github.io/CEN1400/
+See Deployed site here -> https://shepherd869.github.io/CEN1400/ <br>
 
-This site was created to enhance mobile development skills. It makes use of jQuery Mobile / CSS / HTML / ThemeRoller
+This site was created to enhance mobile development skills. It makes use of jQuery Mobile / CSS / HTML / ThemeRoller <br>
 
-This website is a Single Page Application (SPA)
-Within it there is:
+This website is a Single Page Application (SPA)<br><br>
+Within it there is: <br><br>
 
-*Header with:
-  Logo Image
-  Navigation Panel used to purchase reviewed products. Clicking Links will redirect user to appropriate online stores.
-  Website Name
+*Header with:<br>
+  Logo Image<br>
+  Navigation Panel used to purchase reviewed products. Clicking Links will redirect user to appropriate online stores.<br>
+  Website Name<br>
   
-*Body with:
-  JS expandable sections covering:
-    Mission Statement
-    Test Method
-    Alternative Brewing Methods
-    Submittal form, displaying JSON Snippet of user data entry
-    Contact form, displaying JSON Snippet of user data entry
-    
-   Section Links in ranked (ordered) list with a filter search for individual reviews which include:
-     Image of reviewed coffee
-     Link to purchase reviewed coffee by clicking that image, will redirect user to appropriate item purchase URL
-     Review
-     Back Navigation Buttons
-     
-*Footer with:
-  Name
-  Copyright
-  Course Number
-  
+*Body with: <br>
+  JS expandable sections covering:<br>
+    Mission Statement<br>
+    Test Method<br>
+    Alternative Brewing Methods<br>
+    Submittal form, displaying JSON Snippet of user data entry<br>
+    Contact form, displaying JSON Snippet of user data entry<br>
+    <br>
+   Section Links in ranked (ordered) list with a filter search for individual reviews which include:<br>
+     Image of reviewed coffee<br>
+     Link to purchase reviewed coffee by clicking that image, will redirect user to appropriate item purchase URL<br>
+     Review<br>
+     Back Navigation Buttons<br>
+     <br>
+*Footer with:<br>
+  Name<br>
+  Copyright<br>
+  Course Number<br>
+  <br>
 GitHub Pages Deployed URL - https://shepherd869.github.io/CEN1400/ <br>
 SOTD Deployed URL - http://sotd.us/gregoryshepherd/SD140-MobileApp/M5/Activity/main.html <br>
 SOTD Zip File - http://sotd.us/gregoryshepherd/SD140-MobileApp/M6/Gshepherd_M6_Project_08112020.zip
